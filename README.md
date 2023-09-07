@@ -9,7 +9,7 @@ Python; Jupyter Notebooks, Spyder, Pandas, Numpy
 
 
 ## Education
-University of California, Irvine(<br>)
+University of California, Irvine<br>
 Coursera
 
 ## Experience
