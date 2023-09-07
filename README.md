@@ -9,8 +9,8 @@ Python; Jupyter Notebooks, Spyder, Pandas, Numpy
 
 
 ## Education
-University of California, Irvine<br>
-Coursera
+**University of California, Irvine** - *B.A.* Criminolgy, Law and Society<br>
+**Coursera** - Google Data Analytics
 
 ## Experience
 
