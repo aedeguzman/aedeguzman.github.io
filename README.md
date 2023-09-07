@@ -6,7 +6,7 @@ Energetic, well-organized, and detail-oriented Data Analyst performing data-driv
 -	**Database Management:** SQL; aggregation, joins, case statements, BigQuery, PostgreSQL, R, 
 Python; Jupyter Notebooks, Spyder, Pandas, Numpy 
 -	**Spreadsheets:** Microsoft Excel; formulas, pivot tables, dashboard reporting, Google Sheets 
--	**Visualization:** Tableau, Dashboards, Microsoft Excel, R; ggplot2, Python; Matplotlib 
+-	**Visualization:** Tableau, Power BI, Dashboards, Microsoft Excel, R; ggplot2, Python; Matplotlib 
 -	**Presentation:** Microsoft PowerPoint
 
 
