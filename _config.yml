@@ -1,5 +1,5 @@
 title: Alan de Guzman
-logo:![](Linkedin.png)
+logo:src = "Users/aedeguzman/Desktop/Data Analyst/Linkedin.png"
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
