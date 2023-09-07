@@ -1,5 +1,5 @@
 # Data Analyst
-
+Energetic, well-organized, and detail-oriented Data Analyst performing data-driven decisions. Experience working in large data sets performing data cleaning, data manipulation, data aggregation, visualizing data, and presenting data. Good working knowledge of Microsoft Office programs, SQL, Tableau, Power BI, Python and R. Able to utilize time efficiently to maximize output. Work well independently and/or in groups. 
 ## Skills
 -	**Database Management:** SQL; aggregation, joins, case statements, BigQuery, PostgreSQL, R, 
 Python; Jupyter Notebooks, Spyder, Pandas, Numpy 
