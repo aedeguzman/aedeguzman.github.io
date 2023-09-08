@@ -2,4 +2,4 @@ title: Alan de Guzman
 logo: "images/siteprofileround.png"
 description: "Welcome to my Data Analyst site!"
 show_downloads: false
-remote_theme: pages-themes/time-machine@v0.2.0
+theme: jekyll-theme-minimal
