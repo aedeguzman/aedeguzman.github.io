@@ -1,5 +1,5 @@
 title: "My Data Analysis site"
-logo: "images/Linkedinround.png"
-description: "Alan de Guzman"
+name: "Alan de Guzman"
+avatar: "images/Linkedinround.png"
 show_downloads: false
 theme: jekyll-theme-minimal
