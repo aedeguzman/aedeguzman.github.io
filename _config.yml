@@ -1,5 +1,5 @@
-comtitle: Alan de Guzman
+title: Alan de Guzman
 logo: "images/siteprofileround.png"
 description: "Welcome to my Data Analyst site!"
 show_downloads: false
-theme: jekyll-theme
+theme: jekyll-theme-minimal
