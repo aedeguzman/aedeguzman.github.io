@@ -1,7 +1,5 @@
-author: Alan de Guzman
-name: "Alan de Guzman"
-avatar: "images/Linkedinround.png"
-bio: "Data Analyst"
-location: "Pomona, CA"
+title: Alan de Guzman
+logo: "images/Linkedinround.png"
+description: "Data Analyst"
 show_downloads: false
 theme: jekyll-theme-minimal
