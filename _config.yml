@@ -1,6 +1,6 @@
-name             : "Alan de Guzman"
-avatar           : "images/siteprofileround.png"  
-bio              : "Data Analyst"
-location         : "Pomona, CA"
+title: My homepage
+avatar: "images/siteprofileround.png"  
+bio: "Data Analyst"
+location: "Pomona, CA"
 show_downloads: false
 theme: jekyll-theme-minimal
