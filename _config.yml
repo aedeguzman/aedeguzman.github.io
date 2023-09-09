@@ -1,5 +1,6 @@
 title: "Alan's Homepage"
 logo: "images/siteprofileround.png"
-description: <h4>Alan de Guzman</h4>
+ name: &name"Alan de Guzman"
+# description:
 show_downloads: false
 theme: jekyll-theme-minimal
