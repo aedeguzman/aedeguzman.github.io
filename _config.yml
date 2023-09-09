@@ -1,6 +1,6 @@
 title: My homepage
-avatar: "images/siteprofileround.png"  
-bio: "Data Analyst"
-location: "Pomona, CA"
+logo: "images/siteprofileround.png"  
+name: &name "Data Analyst"
+description: data Analyst
 show_downloads: false
 theme: jekyll-theme-minimal
