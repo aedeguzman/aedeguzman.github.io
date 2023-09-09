@@ -1,6 +1,5 @@
 title: "Alan's homepage"
 logo: "images/siteprofileround.png" 
-name: Alan de Guzman
-description: Alan de Guzman
+name: &name "Alan de Guzman"
 show_downloads: false
 theme: jekyll-theme-minimal
