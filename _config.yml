@@ -1,5 +1,5 @@
-title: My homepage
+title: "Alan's homepage"
 logo: "images/siteprofileround.png"  
-name: &name "Data Analyst"
+description: "Data Analyst"
 show_downloads: false
 theme: jekyll-theme-minimal
