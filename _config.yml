@@ -1,6 +1,6 @@
 title: "Alan's Homepage"
 logo: "images/siteprofileround.png"
-name: &name "Alan de Guzman"
-description: &description "Data Analyst"
+name                     : &name "Alan de Guzman"
+description              : &description "Data Analyst"
 show_downloads: false
 theme: jekyll-theme-minimal
