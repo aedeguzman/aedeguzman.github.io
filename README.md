@@ -1,3 +1,4 @@
+<bg_color: fffefe/>
 # Hello, I'm Alan!
 
 Energetic, well-organized, and detail-oriented Data Analyst performing data-driven decisions. 
