@@ -1,24 +1,6 @@
-# Hello, I'm Alan!
+Hi 👋 My name is Alan de Guzman ===============================  Data Analyst ------------  Always looking for the next challenge to help me grow, I took a dive into the world of data science. Over the past couple years, I’ve emersed myself in the tools and techniques to help me see and better understand data analysis. I’ve been growing my skill-set by picking up as many programming languages as I can including: SQL, R, and Python. I’ve also had to familiarize myself with visualization software and spreadsheets to make my finding easier to see and understand. All my skills and languages are essential in helping me perform my duties. I am always improving and growing my knowledge and skills on data analysis, so I never stop learning. I make it easier to see and understand the data.  * 🌍  I'm based in Pomona, CA * ✉️  You can contact me at [aedeguzman@gmail.com](mailto:aedeguzman@gmail.com)
 
-Energetic, well-organized, and detail-oriented Data Analyst performing data-driven decisions. 
+### Skills  
 
-Experience working in large data sets performing data cleaning, data manipulation, data aggregation, visualizing data, and presenting data. 
-
-Good working knowledge of Microsoft Office programs, SQL, Tableau, Power BI, Python and R. Able to utilize time efficiently to maximize output. 
-
-Work well independently and/or in groups. 
-
-## Skills
--	**Database Management:** SQL; aggregation, joins, case statements, BigQuery, PostgreSQL, R, 
-Python; Jupyter Notebooks, Spyder, Pandas, Numpy 
--	**Spreadsheets:** Microsoft Excel; formulas, pivot tables, dashboard reporting, Google Sheets 
--	**Visualization:** Tableau, Power BI, Dashboards, Microsoft Excel, R; ggplot2, Python; Matplotlib 
--	**Presentation:** Microsoft PowerPoint
-
-
-## Education
-**University of California, Irvine** - *B.A.* Criminolgy, Law and Society<br>
-**Coursera** - Google Data Analytics
-
-## Experience
-
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/aedeguzman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aedeguzman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
