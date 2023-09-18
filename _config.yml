@@ -1,7 +1,7 @@
 title: "Alan de Guzman"
 logo: "img/siteprofileround.png"
 description: Data Analyst
-- {title: Mail, icon: envelope, url: "mailto:aedeguzman@gmail.com"}
-linkedin: aedeguzman
+- email: &email "aedeguzman@gmail.com"}
+linkedin: &linkedin "aedeguzman"
 show_downloads: false
 theme: jekyll-theme-minimal
