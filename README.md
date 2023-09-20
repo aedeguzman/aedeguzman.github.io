@@ -1,10 +1,9 @@
 ### Hello World, I'm Alan  👋
 ## I'm a Data Analyst
 
-- I’m currently working on my Data Analyst projects.
+- I’m currently working on my Data Analysis projects.
 - I’m currently learning Python
 - I’m looking to collaborate more on open source
-
 
 
 ## Find me on:
@@ -16,3 +15,4 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+[linkedin]: https://www.linkedin.com/in/aedeguzman/
