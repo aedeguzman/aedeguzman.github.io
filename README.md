@@ -1,7 +1,7 @@
 ### Hello World, I'm Alan  👋
 ## I'm a Data Analyst
 
-- I’m currently working on my Data Analysis projects.
+- I’m currently working on Data Analysis projects.
 - I’m currently learning Python
 - I’m looking to collaborate more on open source
 
