@@ -19,4 +19,8 @@
 </br>
 # Projects
 
-Roller Coaster EDA.ipynb
+## Exploratory Data Analysis
+
+![image description](img/kings-island-211994_640.jpg)
+
+![Roller Coaster Database EDA]()
