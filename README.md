@@ -23,4 +23,4 @@
 
 ![image description](img/kings-island-211994_640.jpg)
 
-![Roller Coaster Database EDA]()
+[Roller Coaster Database EDA](Roller Coaster EDA.ipynb)
