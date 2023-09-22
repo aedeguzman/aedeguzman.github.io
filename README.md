@@ -21,6 +21,6 @@
 
 ## Exploratory Data Analysis
 
-![image description](img/kings-island-211994_640.jpg)
+![Roller Coaster](img/kings-island-211994_640.jpg)
 
-[Roller Coaster Database EDA](Roller Coaster EDA.ipynb)
+Thisis how I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/main/Roller%20Coaster%20EDA.ipynb)
