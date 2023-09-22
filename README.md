@@ -23,4 +23,4 @@
 
 ![Roller Coaster](img/kings-island-211994_640.jpg)
 
-Thisis how I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/main/Roller%20Coaster%20EDA.ipynb)
+This is how I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/main/Roller%20Coaster%20EDA.ipynb)
