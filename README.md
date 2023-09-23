@@ -19,9 +19,11 @@
 <br/>
 
 
-# Projects
+# What I've been working on:
+<br/>
 
 ## Exploratory Data Analysis
+<br/>
 
 ![Roller Coaster](img/kings-island-211994_640.jpg)
 
