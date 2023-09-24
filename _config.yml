@@ -1,7 +1,6 @@
-title: "Alan de Guzman"
-logo: "img/siteprofileround.png"
-description: "**Data Analyst**"
-email: "aedeguzman@gmail.com"
-linkedin: "aedeguzman"
+  name             : "Alan de Guzman"
+  avatar           : "img/siteprofileround.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "pomona, CA"
 show_downloads: false
 theme: jekyll-theme-minimal
