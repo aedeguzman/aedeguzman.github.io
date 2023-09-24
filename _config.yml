@@ -1,6 +1,5 @@
-  name             : "Alan de Guzman"
-  avatar           : "img/siteprofileround.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "pomona, CA"
+title: "Alan de Guzman"
+logo: "img/siteprofileround.png"
+description: "Data Analyst"
 show_downloads: false
 theme: jekyll-theme-minimal
