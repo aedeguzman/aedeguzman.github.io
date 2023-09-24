@@ -1,6 +1,6 @@
 title: "Alan de Guzman"
-logo: "img/siteprofileround.png"
+avatar: "img/siteprofileround.png"
 description: "Data Analyst"
 show_downloads: false
 theme: jekyll-theme-minimal
-minimal_mistakes_skin: "default" # "air"
+
