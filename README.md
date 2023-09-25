@@ -5,12 +5,10 @@
 🌱  I am currently learning Web Scraping and Python.<br/>
 💬  I’m looking to collaborate more on open source.<br/>
 😄  <br/>
+⚡
  
 
-
-## ⚡Find me on:⚡
-<img align="left" alt="aedeguzman | LinkedIn" width="30px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
-<br/>
+<img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
 
 ## Here's what I can do:
 <img align="left" alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
