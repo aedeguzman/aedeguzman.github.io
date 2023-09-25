@@ -11,11 +11,12 @@
 <img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
 
 ## Here's what I can do:
-<img align="left;padding-right:10px" alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="SQL" width="30px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" />
-<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="python" width="30px" 
+<img align="left" alt="postgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" />
+<img align="left" alt="postgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/>
+<img align="left" alt="python" width="40px" 
 src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
 <br/>
@@ -30,3 +31,5 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 ![Roller Coaster](img/kings-island-211994_640.jpg)
 
 This is how I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/main/Roller%20Coaster%20EDA.ipynb)
+
+
