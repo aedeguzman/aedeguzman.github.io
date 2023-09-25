@@ -2,9 +2,9 @@
 ## I'm a Data Analyst
 
 🔭  I’m currently working on Data Analysis projects.<br/>
- 🌱  I am currently learning Web Scraping andPython.<br/>
- 💬  I’m looking to collaborate more on open source.<br/>
- 😄
+🌱  I am currently learning Web Scraping andPython.<br/>
+💬  I’m looking to collaborate more on open source.<br/>
+😄  <br/>
  
 
 
