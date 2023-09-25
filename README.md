@@ -9,7 +9,7 @@
 
 
 ## ⚡Find me on:⚡
-<img align="left" alt="aedeguzman | LinkedIn" width="30px" src="https://github.com/aedeguzman/aedeguzman.github.io/blob/a97cc470567370cfc8f6e6bde0eaa7f3e49c9e32/img/LinkedIn_icon.svg.png" />
+<img align="left" alt="aedeguzman | LinkedIn" width="30px" src="img/LinkedIn_icon.svg.png" />
 <br/>
 
 ## Here's what I can do:
