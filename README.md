@@ -14,7 +14,8 @@
 
 ## Here's what I can do:
 <img align="left" alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="SQL" width="30px" src="https://github.com/aedeguzman/aedeguzman.github.io/blob/45708446d47d1f535879df18a042fabb3f523608/img/mysqlworkbench_93532-1.png" />
+<img align="left" alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" alt="SQL" width="30px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" />
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="python" width="30px" 
 src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
