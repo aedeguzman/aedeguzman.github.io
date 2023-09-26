@@ -1,5 +1,5 @@
-### Hello World, I'm Alan  👋
-## I'm a Data Analyst
+<h1 align="center">Hi 👋, I'm Alan</h1>
+<h2 align="center">A passionate Data Analyst from the USA</h2>
 
 🔭  I’m currently working on Data Analysis projects.<br/>
 🌱  I am currently learning Web Scraping and Python.<br/>
@@ -16,6 +16,7 @@
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/>
+<img align="left" alt="python" width="40px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/> 
 <img align="left" alt="python" width="40px" 
 src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
