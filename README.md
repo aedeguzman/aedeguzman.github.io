@@ -15,7 +15,7 @@
 ⚡
 <br/>
 
-[<img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/aedeguzman/)
+<img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <br/>
 
 ## Here's what I can do:
