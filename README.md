@@ -9,13 +9,14 @@
 
 - 💬  Ask me about
 
-- 😄  Fun Fact:  Cooking is my hobby.
+- 😄  Fun Fact:  Cooking is my hobby.<br/>
 
 🌱
 ⚡
 
 
-<img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
+[<img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/aedeguzman/)
+<br/>
 
 ## Here's what I can do:
 <img align="left" alt="postgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" />
