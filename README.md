@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h2 align="center">A passionate Data Analyst from the USA</h2>
 
-🔭  I’m currently working on Data Analysis projects.<br/>
-🌱  I am currently learning Web Scraping and Python.<br/>
-💬  I’m looking to collaborate more on open source.<br/>
-😄  <br/>
+- 🔭  I’m currently working on Data Analysis projects.
+
+- 🌱  I am currently learning Web Scraping and Python.
+
+- 💬  I’m looking to collaborate more on open source.
+
+- 😄  <br/>
 ⚡
  
 
