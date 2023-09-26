@@ -15,9 +15,6 @@
 ⚡
 <br/>
 
-<img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br/>
-
 ## Here's what I can do:
 <img align="left" alt="postgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" />
 <img align="left" alt="postgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
