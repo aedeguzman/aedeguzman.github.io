@@ -6,8 +6,11 @@
 - 👨‍💻  I am currently learning Web Scraping and Python.
 
 - 👯  I’m looking to collaborate more on open source.
+
 - 💬  Ask me about
-- 😄  Fun Fact:  Cooking is my hobby.<br/>
+
+- 😄  Fun Fact:  Cooking is my hobby.
+
 🌱
 ⚡
 
