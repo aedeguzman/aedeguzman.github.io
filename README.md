@@ -3,13 +3,14 @@
 
 - 🔭  I’m currently working on Data Analysis projects.
 
-- 🌱  I am currently learning Web Scraping and Python.
+- 👨‍💻  I am currently learning Web Scraping and Python.
 
-- 💬  I’m looking to collaborate more on open source.
-
-- 😄  <br/>
+- 👯  I’m looking to collaborate more on open source.
+- 💬  Ask me about
+- 😄  Fun Fact:  Cooking is my hobby.<br/>
+🌱
 ⚡
- 
+
 
 <img align="left" alt="aedeguzman | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
 
