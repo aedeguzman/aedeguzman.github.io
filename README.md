@@ -35,7 +35,7 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
 ![Smiling face Emoji](img/emoji-7103761_640.png)
 
-I used [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb) to analyze reviews from Amazon Fine Foods.  
+I used [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb) to analyze reviews from Amazon Fine Foods.  In this project, I looked at the relationship between the reviews given, and their star rating.  I  analyzed its sentiment to see if there was any correlation between a low star rating, and a bad review as well as a high star rating and a good review.    
 
 <br/>
 ## Exploratory Data Analysis
