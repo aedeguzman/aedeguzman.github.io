@@ -43,6 +43,6 @@ I used [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.githu
 
 ![Roller Coaster](img/kings-island-211994_640.jpg)
 
-This is how I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/main/Roller%20Coaster%20EDA.ipynb)
+This is how I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/ffdbb82542040c1322ff0f38ccce84afb0a73b0c/Roller%20Coaster%20EDA.ipynb)
 
 
