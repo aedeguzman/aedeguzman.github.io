@@ -35,7 +35,7 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
 ![Smiling face Emoji](img/emoji-7103761_640.png)
 
-I used [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb) to analyze reviews from Amazon Fine Foods.  In this project, I looked at the relationship between the reviews given, and their star rating.  I  analyzed its sentiment to see if there was any correlation between a low star rating, and a bad review as well as a high star rating and a good review.    
+Employing [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb) on Amazon Fine Foods reviews provided a valuable means to gauge customer sentiments with precision. By utilizing this tool, I was able to quantitatively assess the polarity of reviews, distinguishing between positive, neutral, and negative sentiments. This analysis allowed me to gain deeper insights into customer satisfaction, identify areas for product improvement, and make data-driven decisions to enhance the Amazon Fine Foods product line.   
 
 <br/>
 ## Exploratory Data Analysis
@@ -43,6 +43,6 @@ I used [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.githu
 
 ![Roller Coaster](img/kings-island-211994_640.jpg)
 
-I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/ffdbb82542040c1322ff0f38ccce84afb0a73b0c/Roller%20Coaster%20EDA.ipynb).  For this project I looked at trends regarding how many roller coasters were built in which year,  as well as the materials the roller coaster were comprised of.  I also examined the relationships between the height of the coaster and its maximum speed.      
+Exploratory data analysis (EDA) played a pivotal role in uncovering valuable insights within the  [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/ffdbb82542040c1322ff0f38ccce84afb0a73b0c/Roller%20Coaster%20EDA.ipynb).  By visualizing and summarizing the dataset's key attributes, we gained a comprehensive understanding of how many roller coasters were built in which year,  as well as the materials the roller coaster were comprised of.  I also examined the relationships between the height of the coaster and its maximum speed.EDA allowed us to identify trends, correlations, and outliers, enabling data-driven decisions to optimize ride experiences, and marketing strategies within the amusement park industry.      
 
 
