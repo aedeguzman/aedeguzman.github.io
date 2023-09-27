@@ -31,7 +31,11 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 
 # ⚒️ What I've been working on: ⚒️
 <br/>
-![Smiling face Emoji](https://github.com/aedeguzman/aedeguzman.github.io/blob/f1d7f03fd7ddb7962b696a7dd0bcf664895db8c1/img/emoji-7103761_640.png)
+## VADER Sentiment Analysis
+<br/>
+![Smiling face Emoji](img/emoji-7103761_640.png)
+
+<br/>
 ## Exploratory Data Analysis
 <br/>
 
