@@ -5,3 +5,8 @@ color-scheme: dark
 show_downloads: false
 theme: jekyll-theme-minimal
 
+sidebar:
+ - name: Email
+   icon:
+   link: "aedeguzman@gmail.com
+
