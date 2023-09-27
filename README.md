@@ -43,6 +43,6 @@ I used [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.githu
 
 ![Roller Coaster](img/kings-island-211994_640.jpg)
 
-This is how I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/ffdbb82542040c1322ff0f38ccce84afb0a73b0c/Roller%20Coaster%20EDA.ipynb)
+I performed Exploratory Data Analysis using the [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/ffdbb82542040c1322ff0f38ccce84afb0a73b0c/Roller%20Coaster%20EDA.ipynb).  For this project I looked at trends regarding how many roller coasters were built in wht year,  as well as the materials the roller coaster were comprised of.  I also examined the relationships between the height of the coaster and it's maximum speed.      
 
 
