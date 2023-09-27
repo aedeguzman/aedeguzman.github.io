@@ -1,6 +1,7 @@
 title: "Alan de Guzman"
 logo: "img/siteprofileround.png"
 email: "aedeguzman@gmail.com"
+color-scheme: dark
 show_downloads: false
 theme: jekyll-theme-minimal
 
