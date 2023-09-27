@@ -35,6 +35,8 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
 ![Smiling face Emoji](img/emoji-7103761_640.png)
 
+I used [VADER Sentiment Analysis]( to analyze reviews from Amazon FineFoods
+
 <br/>
 ## Exploratory Data Analysis
 <br/>
