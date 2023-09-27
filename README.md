@@ -9,7 +9,7 @@
 
 - 💬  Ask me about
 
-- 😄  Fun Fact:  Cooking is my hobby.<br/>
+- 😄  Fun Fact:  Tater Tot is short for potato toddler.<br/>
 
 🌱
 ⚡
