@@ -7,7 +7,7 @@
 
 - 👯  I’m looking to collaborate more on open source.
 
-- 💬  Ask me about
+- 💬  Ask me about my interests
 
 - 😄  Fun Fact:  Tater Tot is short for potato toddler.<br/>
 
