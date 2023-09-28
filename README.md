@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h2 align="center">A passionate Data Analyst from the USA</h2>
-
+document.body.style.backgroundColor = "#5a5a5a";<br/>       
 - 🔭  I’m currently working on Data Analysis projects.
 
 - 👨‍💻  I am currently learning Web Scraping and Python.
