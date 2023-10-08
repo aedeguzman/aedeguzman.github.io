@@ -1,8 +1,6 @@
-author:
-  name             : "Your Sidebar Name"
-  avatar           : "img/siteprofileround.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Pomona, CA"
+title: "Alan de Guzman"
+logo: "img/siteprofileround.png"
+email: "aedeguzman@gmail.com"
 show_downloads: false
 theme: jekyll-theme-minimal
 
