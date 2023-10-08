@@ -2,9 +2,8 @@ title: GitHub Pages
 title: "Alan de Guzman"
 logo: "img/siteprofileround.png"
 description: >-
- Data Analyst
-email: >-
- "aedeguzman@gmail.com"
+ Data Analyst >-
+email: "aedeguzman@gmail.com"
 show_downloads: false
 theme: jekyll-theme-minimal
 
