@@ -26,6 +26,7 @@
 <img align="left" alt="python" width="40px" 
 src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
+<br/><b>•<b/> Communication <b>•<b/> Problem-Solving <b>•<b/> Analytical Thinking <b>•<b/> Data Visualization <b>•<b/> Teamwork
 <br/>
 <h2 align="center">⚡About Me⚡</h2>
 <br/>
