@@ -40,7 +40,7 @@ I thrive in a dynamic and collaborative environment, where I can contribute my g
 <br/>
 ## Data Visualization 
 <br/>
-
+![Tableau](img/Tableau.png)
 
 <br/>
 ## VADER Sentiment Analysis
