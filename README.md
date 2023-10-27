@@ -38,11 +38,16 @@ I thrive in a dynamic and collaborative environment, where I can contribute my g
 
 # ⚒️ What I've been working on: ⚒️
 <br/>
+## Data Visualization 
+<br/>
+
+
+<br/>
 ## VADER Sentiment Analysis
 <br/>
 ![Smiling face Emoji](img/emoji-7103761_640.png)
 
-Employing [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb) on Amazon Fine Foods reviews provided a valuable means to gauge customer sentiments with precision. By utilizing this tool, I was able to quantitatively assess the polarity of reviews, distinguishing between positive, neutral, and negative sentiments. This analysis allowed me to gain deeper insights into customer satisfaction, identify areas for product improvement, and make data-driven decisions to enhance the Amazon Fine Foods product line.   
+Employing [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb)on Amazon Fine Foods reviews provided a valuable means to gauge customer sentiments with precision. By utilizing this tool, I was able to quantitatively assess the polarity of reviews, distinguishing between positive, neutral, and negative sentiments. This analysis allowed me to gain deeper insights into customer satisfaction, identify areas for product improvement, and make data-driven decisions to enhance the Amazon Fine Foods product line.   
 
 <br/>
 ## Exploratory Data Analysis
