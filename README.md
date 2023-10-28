@@ -59,7 +59,7 @@ Welcome to the world of bulk household essentials  with Value Inc.'s comprehensi
 <br/>
 ![Blue bank](img/BlueBank.png)
 <br/>
-With [Blue Bank's(https://public.tableau.com/app/profile/aedeguzman/viz/LoansbyInterestType/BlueBankLoanDashboard) insightful dashboard, we offer a strategic lens into our lending operations. We've scrutinized the landscape of risk, examining loads by interest type, number of loans by credit utilization rate, credit score, and income group. By understanding the nuances of borrower behavior, we aim to identify and mitigate risks effectively, ensuring the financial well-being of both our clients and the bank. This dashboard embodies our commitment to responsible lending and financial stewardship.
+With [Blue Bank's](https://public.tableau.com/app/profile/aedeguzman/viz/LoansbyInterestType/BlueBankLoanDashboard) insightful dashboard, we offer a strategic lens into our lending operations. We've scrutinized the landscape of risk, examining loads by interest type, number of loans by credit utilization rate, credit score, and income group. By understanding the nuances of borrower behavior, we aim to identify and mitigate risks effectively, ensuring the financial well-being of both our clients and the bank. This dashboard embodies our commitment to responsible lending and financial stewardship.
 <br/>
 <br/>
 ***Park City Peaks Hotel***
