@@ -51,7 +51,7 @@ Tableau is my go-to tool for [data visualization](https://public.tableau.com/app
 <br/>
 ![ValueInc](img/ValueInc.png)
 <br/>
-Welcome to the world of bulk household essentials  with Value Inc.'s comprehensive dashboard. Dive into the nitty-gritty of our operations with monthly sales and cost breakdowns, pinpointing profitability like never before. Explore the correlation between profit and client age, see which client types drive our success, and dive into the specifics of our top-performing items. Discover how our reach extends across borders with profit metrics by country. 
+Welcome to the world of bulk household essentials  with [Value Inc.'s](https://public.tableau.com/app/profile/aedeguzman/viz/SalesperTransaction/ValueInc_Sales) comprehensive dashboard. Dive into the nitty-gritty of our operations with monthly sales and cost breakdowns, pinpointing profitability like never before. Explore the correlation between profit and client age, see which client types drive our success, and dive into the specifics of our top-performing items. Discover how our reach extends across borders with profit metrics by country. 
 <br/>
 <br/>
 ***Blue Bank Loan Analysis***
@@ -67,7 +67,7 @@ With [Blue Bank's](https://public.tableau.com/app/profile/aedeguzman/viz/Loansby
 <br/>
 ![Park City Peaks](img/ParkCity.png)
 <br/> 
-Welcome to Park City Peaks Hotel's dashboard, your window into our world of hospitality. Here, you'll find a snapshot of our performance and our guests' preferences. Discover the ebb and flow of bookings and cancellations, track the balance between new and returning guests, and determine our patrons’ savor. Additionally, get insights into whether our accommodations are primarily chosen by individuals or families. 
+Welcome to [Park City Peaks Hotel's](https://public.tableau.com/app/profile/aedeguzman/viz/ParkCity_16981168760140/HotelBookingsDashboard) dashboard, your window into our world of hospitality. Here, you'll find a snapshot of our performance and our guests' preferences. Discover the ebb and flow of bookings and cancellations, track the balance between new and returning guests, and determine our patrons’ savor. Additionally, get insights into whether our accommodations are primarily chosen by individuals or families. 
 <br/>
 <br/>
 
