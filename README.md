@@ -46,7 +46,7 @@ I thrive in a dynamic and collaborative environment, where I can contribute my g
 Tableau is my go-to tool for [data visualization](https://public.tableau.com/app/profile/aedeguzman/vizzes). It starts with importing data from various sources, such as spreadsheets, databases, or cloud services. Once the data is in, Tableau's user-friendly interface allows me to effortlessly create interactive charts, graphs, and dashboards. I can customize these visuals to tell a compelling data story, adjusting colors, labels, and interactivity to highlight key insights. Tableau's real-time data exploration features enable me to dive deep into the details or zoom out for a broader view, making it an indispensable tool for data analysis and reporting. Whether it's for business presentations, analytics, or uncovering trends, Tableau helps me unlock the power of data through visual representation.
 <br/>
 <br/>
-***CalueInc***
+***ValueInc***
 <br/>
 <br/>
 ![ValueInc](img/ValueInc.png)
