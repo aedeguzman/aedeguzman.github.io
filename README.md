@@ -50,15 +50,7 @@ Tableau is my go-to tool for [data visualization](https://public.tableau.com/app
 <br/>
 ![Park City Peaks](img/ParkCity.png)
 <br/> 
-This Dashboard I created for Park City Peaks Hotel shows:<br/>
- 
-• The bookings and cancellations the hotel gets on a monthly basis<br/>
-
-• Determines how many guests are new and how mny are repeat customers<br/>
-
-• What food option, if any, the guests have chosen<br/>
-
-• Whether bookings are made by individuals or families on average<br/>
+Welcome to Park City Peaks Hotel's dashboard, your window into our world of hospitality. Here, you'll find a snapshot of our performance and our guests' preferences. Discover the ebb and flow of bookings and cancellations, track the balance between new and returning guests, and determine our patrons’ savor. Additionally, get insights into whether our accommodations are primarily chosen by individuals or families. 
 <br/>
 <br/>
 
