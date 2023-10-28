@@ -46,12 +46,20 @@ I thrive in a dynamic and collaborative environment, where I can contribute my g
 Tableau is my go-to tool for [data visualization](https://public.tableau.com/app/profile/aedeguzman/vizzes). It starts with importing data from various sources, such as spreadsheets, databases, or cloud services. Once the data is in, Tableau's user-friendly interface allows me to effortlessly create interactive charts, graphs, and dashboards. I can customize these visuals to tell a compelling data story, adjusting colors, labels, and interactivity to highlight key insights. Tableau's real-time data exploration features enable me to dive deep into the details or zoom out for a broader view, making it an indispensable tool for data analysis and reporting. Whether it's for business presentations, analytics, or uncovering trends, Tableau helps me unlock the power of data through visual representation.
 <br/>
 <br/>
-***Value Inc.***
+***Value Inc. Sales Dashoard***
 <br/>
 <br/>
 ![ValueInc](img/ValueInc.png)
 <br/>
 Welcome to the world of bulk household essentials  with Value Inc.'s comprehensive dashboard. Dive into the nitty-gritty of our operations with monthly sales and cost breakdowns, pinpointing profitability like never before. Explore the correlation between profit and client age, see which client types drive our success, and dive into the specifics of our top-performing items. Discover how our reach extends across borders with profit metrics by country. 
+<br/>
+<br/>
+***Blue Bank Loan Analysis***
+<br/>
+<br/>
+![Blue bank](img/BlueBank.png)
+<br/>
+With [Blue Bank's(https://public.tableau.com/app/profile/aedeguzman/viz/LoansbyInterestType/BlueBankLoanDashboard) insightful dashboard, we offer a strategic lens into our lending operations. We've scrutinized the landscape of risk, examining loads by interest type, number of loans by credit utilization rate, credit score, and income group. By understanding the nuances of borrower behavior, we aim to identify and mitigate risks effectively, ensuring the financial well-being of both our clients and the bank. This dashboard embodies our commitment to responsible lending and financial stewardship.
 <br/>
 <br/>
 ***Park City Peaks Hotel***
