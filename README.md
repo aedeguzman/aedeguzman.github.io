@@ -11,11 +11,11 @@
 
 - 😄  Fun Fact:  Tater Tot is short for potato toddler.<br/>
 
-🌱
+
 
 <br/>
 
-## Here's what I can do:
+## 🌱Here's what I can do:🌱
 <br/>
 <img align="left" alt="postgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img align="left" alt="postgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" />
