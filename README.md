@@ -14,6 +14,15 @@
 
 
 <br/>
+<br/>
+<h2 align="center">⚡About Me⚡</h2>
+<br/>
+As a Data Analyst, I am passionate about the world of data and its limitless potential to drive meaningful insights and informed decisions. With a strong educational background and a hunger for learning, I am eager to embark on my journey in the field of data analysis. I bring a fresh perspective and a commitment to mastering the latest tools and techniques in data science. 
+<br/>
+My adaptability and problem-solving skills enable me to tackle complex data challenges and provide innovative solutions. 
+I thrive in a dynamic and collaborative environment, where I can contribute my growing expertise in data manipulation, visualization, and statistical analysis. I am excited about the opportunities ahead and am dedicated to making a significant impact in the world of data analytics, helping organizations make data-driven decisions that lead to success and growth.
+<br/>
+<br/>
 
 ## 🌱Here's what I can do:🌱
 <br/>
@@ -28,12 +37,6 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
 <br/><b>•<b/> Communication <b>•<b/> Problem-Solving <b>•<b/> Analytical Thinking <b>•<b/> Data Visualization <b>•<b/> Teamwork
 <br/>
-<h2 align="center">⚡About Me⚡</h2>
-<br/>
-As a Data Analyst, I am passionate about the world of data and its limitless potential to drive meaningful insights and informed decisions. With a strong educational background and a hunger for learning, I am eager to embark on my journey in the field of data analysis. I bring a fresh perspective and a commitment to mastering the latest tools and techniques in data science. 
-<br/>
-My adaptability and problem-solving skills enable me to tackle complex data challenges and provide innovative solutions. 
-I thrive in a dynamic and collaborative environment, where I can contribute my growing expertise in data manipulation, visualization, and statistical analysis. I am excited about the opportunities ahead and am dedicated to making a significant impact in the world of data analytics, helping organizations make data-driven decisions that lead to success and growth.
 <br/>
 
 # ⚒️ What I've been working on: ⚒️
