@@ -7,8 +7,8 @@ of each property (street address, district, city, and country please).
 
 SELECT
     first_name,
-	last_name,
-	address.address,
+    last_name,
+    address.address,
     address.district,
     city.city,
     country.country
@@ -90,8 +90,8 @@ and their full addresses – street address, city, and country.
 */
 
 SELECT
-	customer.first_name,
-	customer.last_name,
+    customer.first_name,
+    customer.last_name,
     customer.store_id,
     customer.active,
     address.address,
@@ -113,7 +113,7 @@ see this ordered on total lifetime value, with the most valuable customers at th
 */
 
 SELECT
-	customer.first_name,
+    customer.first_name,
     customer.last_name,
     COUNT(rental.rental_id),
     SUM(payment.amount)
@@ -137,19 +137,19 @@ it would be good to include which company they work with.
 */
 
 SELECT
-	'investor' AS TYPE,
-	first_name,
-	last_name,
-	company_name
+   'investor' AS TYPE,
+   first_name,
+   last_name,
+   company_name
 FROM investor
 
 UNION
 
 SELECT	
-	'advisor' AS TYPE,
-	first_name,
-	last_name,
-	'--' AS company_name
+   'advisor' AS TYPE,
+   first_name,
+   last_name,
+   '--' AS company_name
 FROM advisor;
 
 /*
@@ -159,8 +159,8 @@ And how about for actors with two types of awards? Same questions.
 Finally, how about actors with just one award? 
 */
 SELECT
-	CASE 
-		WHEN actor_award.awards = 'Emmy, Oscar, Tony' THEN '3 Awards'
+   CASE 
+ 	WHEN actor_award.awards = 'Emmy, Oscar, Tony' THEN '3 Awards'
         WHEN actor_award.awards IN ('Emmy, Oscar', 'Emmy, Tony', 'Oscar, Tony') THEN '2 Awards'
         ELSE '1 Award'
         End AS number_of_awards,
@@ -168,8 +168,8 @@ SELECT
 FROM actor_award 
 
 GROUP BY
-	CASE
-		WHEN actor_award.awards = 'Emmy, Oscar, Tony' THEN '3 Awards'
+   CASE
+	WHEN actor_award.awards = 'Emmy, Oscar, Tony' THEN '3 Awards'
         WHEN actor_award.awards IN ('Emmy, Oscar', 'Emmy, Tony', 'Oscar, Tony') THEN '2 Awards'
         ELSE '1 Award'
 	END;
