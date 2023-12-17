@@ -20,7 +20,7 @@ FROM store
 	LEFT JOIN city
 		ON address.city_id = city.city_id
 	LEFT JOIN country
-		ON city.country_id = country.country_id
+		ON city.country_id = country.country_id;
 	
 /*
 2.	I would like to get a better understanding of all of the inventory that would come along with the business. 
@@ -37,7 +37,7 @@ SELECT
     film.replacement_cost
 FROM inventory
 	LEFT JOIN film
-		ON inventory.film_id = film.film_id
+		ON inventory.film_id = film.film_id;
 
 /* 
 3.	From the same list of films you just pulled, please roll that data up and provide a summary level overview 
@@ -53,7 +53,7 @@ FROM inventory
 		ON inventory.film_id = film.film_id
 	GROUP BY 
 		inventory.store_id,
-		film.rating
+		film.rating;
     
 /* 
 4. Similarly, we want to understand how diversified the inventory is in terms of replacement cost. We want to 
@@ -103,7 +103,7 @@ FROM customer
 	LEFT JOIN city
 		ON address.city_id = city.city_id
 	LEFT JOIN country
-		ON city.country_id = country.country_id
+		ON city.country_id = country.country_id;
 
 /*
 6.	We would like to understand how much your customers are spending with you, and also to know 
@@ -172,5 +172,5 @@ GROUP BY
 		WHEN actor_award.awards = 'Emmy, Oscar, Tony' THEN '3 Awards'
         WHEN actor_award.awards IN ('Emmy, Oscar', 'Emmy, Tony', 'Oscar, Tony') THEN '2 Awards'
         ELSE '1 Award'
-	END
+	END;
 					
