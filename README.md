@@ -46,16 +46,14 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 <br/>
 ![Relational Database SQL](img/Relationaldb.png)
 <br/>
-<br/>
 I utilized [SQL](Alan_MavenMovies_.sql) to delve into a comprehensive 16-table database of a company, employing various queries and commands to extract pertinent information. Through this exploration, I focused on understanding key aspects of our business operations, namely inventory, transactions, staff, and customers. By carefully crafting SQL queries, I retrieved and analyzed data sets that provided insights into inventory levels, transaction histories, staff performance metrics, and customer interactions. This analytical approach allowed me to uncover patterns, trends, and relationships within the database, ultimately contributing to a comprehensive understanding of this company's operations. 
 <br/>
 <br/>
 <br/>
-### Restaurant Order Analysis 
+***Restaurant Order Analysis*** 
 <br/>
 <br/>
 ![Retaurant Order](img/order.png)
-<br/>
 <br/>
 I analyzed a quarter's worth of [orders](Restaruant_db.sql) from an international cuisine restaurant using SQL. I began by querying the database to extract relevant data such as order details, menu items, and cuisine types. Utilizing SQL aggregate functions, I calculated the total quantity of each menu item ordered during the specified quarter. This allowed me to identify the most popular menu items by sorting them in descending order based on the quantity sold. Simultaneously, I determined the least popular items by identifying those with the lowest sales quantities. Additionally, I employed SQL queries to group the data by cuisine types and performed similar analyses to discern the popularity of various international cuisines. The results of this SQL analysis provide valuable insights into customer preferences, enabling the restaurant to make informed decisions regarding menu optimization, marketing strategies, and inventory management for future quarters.
 <br/>
@@ -97,16 +95,17 @@ Welcome to [Park City Peaks Hotel's](https://public.tableau.com/app/profile/aede
 
 ## VADER Sentiment Analysis
 <br/>
+<br/>
 ![Smiling face Emoji](img/emoji-7103761_640.png)
-
+<br/>
 Employing [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb)on Amazon Fine Foods reviews provided a valuable means to gauge customer sentiments with precision. By utilizing this tool, I was able to quantitatively assess the polarity of reviews, distinguishing between positive, neutral, and negative sentiments. This analysis allowed me to gain deeper insights into customer satisfaction, identify areas for product improvement, and make data-driven decisions to enhance the Amazon Fine Foods product line.   
 
 <br/>
 ## Exploratory Data Analysis
 <br/>
-
+<br/>
 ![Roller Coaster](img/kings-island-211994_640.jpg)
-
+<br/>
 Exploratory data analysis (EDA) played a pivotal role in uncovering valuable insights within the  [Roller Coaster Database](https://github.com/aedeguzman/aedeguzman.github.io/blob/main/Roller%20Coaster%20EDA.ipynb).  By visualizing and summarizing the dataset's key attributes, I gained a comprehensive understanding of how many roller coasters were built in which year,  as well as the materials the roller coaster were comprised of.  I also examined the relationships between the height of the coaster and its maximum speed.  EDA allowed us to identify trends, correlations, and outliers, enabling data-driven decisions to optimize ride experiences, and marketing strategies within the amusement park industry.      
 
 
