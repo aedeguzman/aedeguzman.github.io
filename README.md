@@ -44,7 +44,7 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 ## Relational Database Analysis 
 <br/>
 <br/>
-![ValueInc](img/Relationaldb.png)
+![Relational Database SQL](img/Relationaldb.png)
 <br/>
 <br/>
 I utilized [SQL](Alan_MavenMovies_.sql) to delve into a comprehensive 16-table database of a company, employing various queries and commands to extract pertinent information. Through this exploration, I focused on understanding key aspects of our business operations, namely inventory, transactions, staff, and customers. By carefully crafting SQL queries, I retrieved and analyzed data sets that provided insights into inventory levels, transaction histories, staff performance metrics, and customer interactions. This analytical approach allowed me to uncover patterns, trends, and relationships within the database, ultimately contributing to a comprehensive understanding of this company's operations. 
