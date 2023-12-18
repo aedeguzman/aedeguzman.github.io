@@ -50,7 +50,13 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 I utilized [SQL](Alan_MavenMovies_.sql) to delve into a comprehensive 16-table database of a company, employing various queries and commands to extract pertinent information. Through this exploration, I focused on understanding key aspects of our business operations, namely inventory, transactions, staff, and customers. By carefully crafting SQL queries, I retrieved and analyzed data sets that provided insights into inventory levels, transaction histories, staff performance metrics, and customer interactions. This analytical approach allowed me to uncover patterns, trends, and relationships within the database, ultimately contributing to a comprehensive understanding of this company's operations. 
 <br/>
 <br/>
-
+<br/>
+### Restaurant Order Analysis 
+<br/>
+<br/>
+I analyzed a [quarter's worth of orders](Restaruant_db.sql) from an international cuisine restaurant using SQL, I began by querying the database to extract relevant data such as order details, menu items, and cuisine types. Utilizing SQL aggregate functions, I calculated the total quantity of each menu item ordered during the specified quarter. This allowed me to identify the most popular menu items by sorting them in descending order based on the quantity sold. Simultaneously, I determined the least popular items by identifying those with the lowest sales quantities. Additionally, I employed SQL queries to group the data by cuisine types and performed similar analyses to discern the popularity of various international cuisines. The results of this SQL analysis provide valuable insights into customer preferences, enabling the restaurant to make informed decisions regarding menu optimization, marketing strategies, and inventory management for future quarters.
+<br/>
+<br/>
 <br/>
 ## Data Visualization 
 <br/>
