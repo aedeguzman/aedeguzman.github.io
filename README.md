@@ -9,7 +9,7 @@
 
 - 💬  Ask me about my interests
 
-- 😄  Fun Fact:  Tater Tot is short for potato toddler.<br/>
+- 😄  Fun Fact:  tater tot is short for potato toddler.<br/>
 
 
 
