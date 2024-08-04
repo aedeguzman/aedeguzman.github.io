@@ -56,10 +56,10 @@ reviewing and analyzing the company's data to provide valuable insights for the 
 review the provided dataset and draft a set of eight questions (four for the CEO and four for the CMO) that will be important and relevant to them in preparation for your meeting. This preparation will guide you in developing your presentation. You need to ensure that these questions reflect the distinct perspectives of the CEO and CMO, considering both quantitative and qualitative aspects of the data.
 <br/>
 <br/>
-•	Which country has purchased the most units?
-•	Which country has the highest total sales?
-•	Which item has the most units sold? 
-•	Which month had the most sales?
+•	Which country has purchased the most units?<br/>
+•	Which country has the highest total sales?<br/>
+•	Which item has the most units sold?<br/> 
+•	Which month had the most sales?<br/>
 
 •	What are your expectations for the growth of the online retail sector in the next few years?
 •	What are the primary metrics currently used to measure success?
