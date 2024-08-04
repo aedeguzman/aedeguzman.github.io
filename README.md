@@ -41,6 +41,37 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 
 # ⚒️ What I've been working on: ⚒️
 <br/>
+## Tata IQ Business Analysis Scenario 
+<br/>
+<br/>
+### Thinking From the Perspective of Business Leaders to Analyse Data More Effectively
+<br/>
+<br/>
+reviewing and analyzing the company's data to provide valuable insights for the CEO and CMO. You need to identify the major factors contributing to the current revenue and present these findings from both an operations and marketing perspective. Additionally, you are required to suggest key metrics for evaluating business performance and identifying potential areas for expansion, with a focus on demographic data. The insights and analytics you prepare will help the management strategically plan for the next year and make informed decisions on business growth. A meeting with the CEO and CMO is scheduled for next month, making it crucial to draft comprehensive and relevant analyses to guide their strategic planning.
+<br/>
+<br/>
+### Questions for the CEO and CMO
+<br/>
+<br/>
+review the provided dataset and draft a set of eight questions (four for the CEO and four for the CMO) that will be important and relevant to them in preparation for your meeting. This preparation will guide you in developing your presentation. You need to ensure that these questions reflect the distinct perspectives of the CEO and CMO, considering both quantitative and qualitative aspects of the data.
+<br/>
+<br/>
+•	Which country has purchased the most units?
+•	Which country has the highest total sales?
+•	Which item has the most units sold? 
+•	Which month had the most sales?
+
+•	What are your expectations for the growth of the online retail sector in the next few years?
+•	What are the primary metrics currently used to measure success?
+•	Are there specific areas of the business you are most concerned about?
+•	How frequently would you like to receive data insights and reports?
+
+
+
+
+
+
+<br/>
 ## Relational Database Analysis 
 <br/>
 <br/>
