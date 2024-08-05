@@ -53,6 +53,9 @@ reviewing and analyzing the company's data to provide valuable insights for the 
 ### Questions for the CEO and CMO
 <br/>
 <br/>
+![Relational Database SQL](img/dataset.png)
+<br/>
+<br/>
 review the provided dataset and draft a set of eight questions (four for the CEO and four for the CMO) that will be important and relevant to them in preparation for your meeting. This preparation will guide you in developing your presentation. You need to ensure that these questions reflect the distinct perspectives of the CEO and CMO, considering both quantitative and qualitative aspects of the data.
 <br/>
 <br/>
