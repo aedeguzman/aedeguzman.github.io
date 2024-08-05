@@ -59,8 +59,8 @@ I reviewied and analyzed the company's data to provide valuable insights for the
 I reviewed the provided dataset and drafted a set of eight questions (four for the CEO and four for the CMO) that will be important and relevant to them in preparation for my meeting. These questions reflect the distinct perspectives of the CEO and CMO, considering both quantitative and qualitative aspects of the data.
 <br/>
 <br/>
-•	Which country has purchased the most units?<br/>
-•	Which country has the highest total sales?<br/>
+*	Which country has purchased the most units?<br/>
+-	Which country has the highest total sales?<br/>
 •	Which item has the most units sold?<br/> 
 •	Which month had the most sales?<br/>
 <br/>
