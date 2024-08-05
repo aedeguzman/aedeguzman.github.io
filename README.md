@@ -60,14 +60,14 @@ I reviewed the provided dataset and drafted a set of eight questions (four for t
 <br/>
 <br/>
 *	Which country has purchased the most units?<br/>
--	Which country has the highest total sales?<br/>
-•	Which item has the most units sold?<br/> 
-•	Which month had the most sales?<br/>
+*	Which country has the highest total sales?<br/>
+*	Which item has the most units sold?<br/> 
+*	Which month had the most sales?<br/>
 <br/>
-•	What are your expectations for the growth of the online retail sector in the next few years?<br/>
-•	What are the primary metrics currently used to measure success?<br/>
-•	Are there specific areas of the business you are most concerned about?<br/>
-•	How frequently would you like to receive data insights and reports?<br/>
+*	What are your expectations for the growth of the online retail sector in the next few years?<br/>
+*	What are the primary metrics currently used to measure success?<br/>
+*	Are there specific areas of the business you are most concerned about?<br/>
+*	How frequently would you like to receive data insights and reports?<br/>
 
 
 
