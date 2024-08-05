@@ -53,7 +53,7 @@ I reviewied and analyzed the company's data to provide valuable insights for the
 ### Questions for the CEO and CMO
 <br/>
 <br/>
-![Relational Database SQL](img/dataset.png)
+![TataIQ Dataset Excel](img/dataset.png)
 <br/>
 <br/>
 I reviewed the provided dataset and drafted a set of eight questions (four for the CEO and four for the CMO) that will be important and relevant to them in preparation for my meeting. These questions reflect the distinct perspectives of the CEO and CMO, considering both quantitative and qualitative aspects of the data.
@@ -63,7 +63,6 @@ I reviewed the provided dataset and drafted a set of eight questions (four for t
 •	Which country has the highest total sales?<br/>
 •	Which item has the most units sold?<br/> 
 •	Which month had the most sales?<br/>
-<br/>
 <br/>
 •	What are your expectations for the growth of the online retail sector in the next few years?<br/>
 •	What are the primary metrics currently used to measure success?<br/>
