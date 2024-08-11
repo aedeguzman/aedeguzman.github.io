@@ -41,41 +41,6 @@ src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"/>
 
 # ⚒️ What I've been working on: ⚒️
 <br/>
-## Tata IQ Business Analysis Scenario 
-<br/>
-<br/>
-### Thinking From the Perspective of Business Leaders to Analyse Data More Effectively
-<br/>
-<br/>
-I reviewied and analyzed the company's data to provide valuable insights for the CEO and CMO. I identified the major factors contributing to the current revenue and present these findings from both an operations and marketing perspective. Additionally, I was required to suggest key metrics for evaluating business performance and identifying potential areas for expansion, with a focus on demographic data. The insights and analytics I prepared will help the management strategically plan for the next year and make informed decisions on business growth. A meeting with the CEO and CMO is scheduled for next month, making it crucial to draft comprehensive and relevant analyses to guide their strategic planning.
-<br/>
-<br/>
-### Questions for the CEO and CMO
-<br/>
-<br/>
-![TataIQ Dataset Excel](img/dataset.png)
-<br/>
-<br/>
-I reviewed the provided dataset and drafted a set of eight questions (four for the CEO and four for the CMO) that will be important and relevant to them in preparation for my meeting. These questions reflect the distinct perspectives of the CEO and CMO, considering both quantitative and qualitative aspects of the data.
-<br/>
-<br/>
-*	Which country has purchased the most units?<br/>
-*	Which country has the highest total sales?<br/>
-*	Which item has the most units sold?<br/> 
-*	Which month had the most sales?<br/>
-<br/>
-*	What are your expectations for the growth of the online retail sector in the next few years?<br/>
-*	What are the primary metrics currently used to measure success?<br/>
-*	Are there specific areas of the business you are most concerned about?<br/>
-*	How frequently would you like to receive data insights and reports?<br/>
-<br/>
-<br/>
-### Tableau Visualization
-
-
-
-
-
 <br/>
 ## Relational Database Analysis 
 <br/>
@@ -127,15 +92,12 @@ With [Blue Bank's](https://public.tableau.com/app/profile/aedeguzman/viz/Loansby
 Welcome to [Park City Peaks Hotel's](https://public.tableau.com/app/profile/aedeguzman/viz/ParkCity_16981168760140/HotelBookingsDashboard) dashboard, your window into our world of hospitality. Here, you'll find a snapshot of our performance and our guests' preferences. Discover the ebb and flow of bookings and cancellations, track the balance between new and returning guests, and determine our patrons’ savor. Additionally, get insights into whether our accommodations are primarily chosen by individuals or families. 
 <br/>
 <br/>
-
-
 ## VADER Sentiment Analysis
 <br/>
 <br/>
 ![Smiling face Emoji](img/emoji-7103761_640.png)
 <br/>
 Employing [VADER Sentiment Analysis](https://github.com/aedeguzman/aedeguzman.github.io/blob/09b4b1ac90f05597b419e31bda490f8481787470/Sentiment%20Analysis.ipynb)on Amazon Fine Foods reviews provided a valuable means to gauge customer sentiments with precision. By utilizing this tool, I was able to quantitatively assess the polarity of reviews, distinguishing between positive, neutral, and negative sentiments. This analysis allowed me to gain deeper insights into customer satisfaction, identify areas for product improvement, and make data-driven decisions to enhance the Amazon Fine Foods product line.   
-
 <br/>
 ## Exploratory Data Analysis
 <br/>
